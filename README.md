@@ -13,9 +13,8 @@ This app converts currencies in real-time using a live exchange rate API and pro
 
 ## 📸 App Preview  
 
-(Add your project screenshot here later)  
-Example:  
-`![App Preview](./preview.png)`
+`![App Preview](Screenshot 2025-11-07 130131.png
+)`
 
 ---
 
